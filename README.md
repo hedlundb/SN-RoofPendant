@@ -4,6 +4,9 @@ This repository contains data (supplementary tables) and novel code pertaining t
 ## Data S1 folder
 Description: Data S1, aka the supplementary tables (in '.xlsx' format), are included within this folder. 
 
+## KEGG Code folder
+Description: Contains novel code necessary to generate a list of summarized KEGG Modules from the PICRUSt2 KO output. 
+
 ## NovelRCode folder
 Novel code filename: plot_cladogram_modified.R
 
