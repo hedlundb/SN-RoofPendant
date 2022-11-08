@@ -1,5 +1,5 @@
 # Project: Sierra Nevada Roof Pendant BMI-Microbe 
-This repository contains data (supplementary tables) and novel code pertaining to the manuscript tentatively titled "Synecological response of spring benthic prokaryotes and macroinvertebrates to Paleozoic roof pendant-derived calcium". Will update with DOI after publication. 
+This repository contains data (supplementary tables) and novel code pertaining to the manuscript tentatively titled "Synecological response of spring benthic prokaryotes and macroinvertebrates to Paleozoic roof pendant-derived calcium". 
 
 ## Data S1 folder
 Description: Data S1, aka the supplementary tables (in '.xlsx' format), are included within this folder. 
@@ -29,4 +29,5 @@ Usage example:
 clado = plot_cladogram_mod(lef, color = col, exclude_rank = 's', drop_unclassifieds = TRUE, clade_label_level = 5)
 
 ## Please cite Friel et al., 2022 and the R package microbiomeMarker if you use this script verbatim.
+
 
