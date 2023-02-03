@@ -1,1 +1,0 @@
-cat profiles/prokaryote.hal | sed 's/^/profiles\//g' | xargs cat > prokaryote.hmm
