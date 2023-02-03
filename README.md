@@ -1,11 +1,11 @@
 # Project: Sierra Nevada Roof Pendant BMI-Microbe 
 This repository contains data (supplementary tables) and novel code pertaining to the manuscript tentatively titled "Synecological response of spring benthic prokaryotes and macroinvertebrates to Paleozoic roof pendant-derived calcium". 
 
-## Data S1 folder
-Description: Data S1, aka the supplementary tables (in '.xlsx' format), are included within this folder. 
+## Data1 folder
+Description: Data 1, aka the supporting tables (in '.xlsx' format), are included within this folder. 
 
-## KEGG Code folder
-Description: Contains novel code necessary to generate a list of summarized KEGG Modules from the PICRUSt2 KO output. 
+## PICRUSt2-KEGGCode folder
+Description: Contains novel code necessary to generate a list of summarized KEGG Modules from the PICRUSt2 KO output, including a permanent copy of the PICRUSt2 version used (v 2.5.0). 
 
 ## NovelRCode folder
 Novel code filename: plot_cladogram_modified.R
